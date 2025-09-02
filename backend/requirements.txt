@@ -10,3 +10,5 @@ PyYAML==6.0.2rc1
 Pillow==11.3.0
 wheel==0.45.1
 setuptools==80.9.0
+python-dotenv == 1.0.1
+gunicorn==23.0.0
